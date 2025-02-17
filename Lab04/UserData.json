@@ -1,0 +1,8 @@
+{
+    "username": "John Doe",
+    "email": "john.doe@example.com",
+    "city": "New York",
+    "website": "https://www.johndoe.com",
+    "zip": "12345-6789",
+    "phone": "1-123-456-7890"
+} 
